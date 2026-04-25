@@ -1,0 +1,7 @@
+data/
+*.h5
+data/*
+
+venv
+venv311
+data/opens1.h5
